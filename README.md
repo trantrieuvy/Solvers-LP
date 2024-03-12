@@ -34,9 +34,11 @@ Solving time of the solvers are measured (in [codes](/codes)) to compare the per
 
 ![Solvers for Traveling Salesman Problem](/results/tsp_plot_small.svg "Solvers for Traveling Salesman Problem")
 
+
 ## Author
 
 - [@trantrieuvy](https://www.github.com/trantrieuvy)
+
 
 ## Acknowledgements
 
