@@ -1,8 +1,7 @@
 # Comparing Solvers for Linear Programming Problems
 
 
-## Experiments
-
+## Introduction
 
 This project deals with comparision between different solvers for the following linear programming problems:
 - Assignment Problem
@@ -10,14 +9,28 @@ This project deals with comparision between different solvers for the following 
 - Knapsack Problem
 - Traveling Salesman Problem
 
+## Preparation
+1. Create virtual Python environment:
+'''shell
+conda create --name LP python=3.11
+'''
+2. Activate environment:
+'''shell
+conda activate LP
+'''
+3. Install dependencies:
+'''shell
+pip install -r requirements.txt
+'''
 
-The chosen solvers are from the following packages:
+## Experiments
+
+The chosen solvers are from the following packages
 - Gurobi
 - SciPy
 - OR-Tools
 - PuLP
 - CVXOPT
-
 
 Solving time of the solvers are measured (in [codes](/codes)) to compare the performance of different solvers for each linear programming problem.
 
