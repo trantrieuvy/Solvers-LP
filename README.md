@@ -10,18 +10,18 @@ This project deals with comparision between different solvers for the following 
 - Traveling Salesman Problem
 
 ## Preparation
-1. Create vitual python environment
+1. Create vitual Python environment
   ```shell
-  conda create -n wildfires python=3.10
+  conda create -name LP python=3.11
   ```
-2. Activate environment:
-'''shell
-conda activate LP
-'''
-3. Install dependencies:
-'''shell
-pip install -r requirements.txt
-'''
+2. Activate environment
+  '''shell
+  conda activate LP
+  '''
+3. Install dependencies
+  '''shell
+  pip install -r requirements.txt
+  '''
 
 ## Experiments
 
