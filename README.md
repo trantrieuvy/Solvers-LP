@@ -1,5 +1,6 @@
-
 # Comparing Solvers for Linear Programming Problems
+
+## Experiments
 
 This project deals with comparision between different solvers for the following linear programming problems:
 - Assignment Problem
@@ -13,10 +14,15 @@ The chosen solvers are from the following packages:
 - PuLP
 - CVXOPT
 Solving time of the solvers are measured to compare the performance of different solvers for each linear programming problem.
+
+## Result
+
+![Solvers for Assignment Problem](/results/assignment_plot.svg)
+
+
 ## Authors
 
 - [@trantrieuvy](https://www.github.com/trantrieuvy)
-
 
 ## Acknowledgements
 
