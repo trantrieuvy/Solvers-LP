@@ -30,6 +30,7 @@ Solving time of the solvers are measured (in [codes](/codes)) to compare the per
 
 ![Solvers (including CVXOPT) for Transportation Problem](/results/transportation_plot_include_cvxopt.png "Solvers (including CVXOPT) for Transportation Problem")
 
+Since the solving time of CVXOPT is significantly large compared to other solvers, we exclude CVXOPT to execute larger matrix sizes:
 ![Solvers for Transportation Problem](/results/transportation_plot.svg "Solvers for Transportation Problem")
 
 ![Solvers for Traveling Salesman Problem](/results/tsp_plot_small.svg "Solvers for Traveling Salesman Problem")
