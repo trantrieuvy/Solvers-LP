@@ -10,9 +10,10 @@ This project deals with comparision between different solvers for the following 
 - Traveling Salesman Problem
 
 ## Preparation
-1. Create virtual Python environment:
-   '''bash
-   conda create --name LP python=3.11
+1. Create vitual python environment
+  ```shell
+  conda create -n wildfires python=3.10
+  ```
 2. Activate environment:
 '''shell
 conda activate LP
