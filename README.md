@@ -18,6 +18,11 @@ Solving time of the solvers are measured to compare the performance of different
 ## Result
 
 ![Solvers for Assignment Problem](/results/assignment_plot.svg)
+![Solvers for Knapsack Problem](/results/knapsack_plot.svg)
+![Solvers (including CVXOPT) for Transportation Problem](/results/transportation_plot_include_cvxopt.svg)
+![Solvers for Transportation Problem](/results/transportation_plot.svg)
+![Solvers for Traveling Salesman Problem](/results/tsp_plot.svg)
+
 
 
 ## Authors
