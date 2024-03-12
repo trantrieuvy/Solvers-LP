@@ -11,8 +11,8 @@ This project deals with comparision between different solvers for the following 
 
 ## Preparation
 1. Create virtual Python environment:
-'''bash
-conda create --name LP python=3.11
+   '''bash
+   conda create --name LP python=3.11
 2. Activate environment:
 '''shell
 conda activate LP
