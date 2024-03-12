@@ -1,12 +1,15 @@
 # Comparing Solvers for Linear Programming Problems
 
+
 ## Experiments
+
 
 This project deals with comparision between different solvers for the following linear programming problems:
 - Assignment Problem
 - Transportation Problem
 - Knapsack Problem
 - Traveling Salesman Problem
+
 
 The chosen solvers are from the following packages:
 - Gurobi
@@ -15,9 +18,11 @@ The chosen solvers are from the following packages:
 - PuLP
 - CVXOPT
 
-Solving time of the solvers are measured to compare the performance of different solvers for each linear programming problem.
 
-## Result
+Solving time of the solvers are measured (in [codes](/codes)) to compare the performance of different solvers for each linear programming problem.
+
+
+## Results
 
 ![Solvers for Assignment Problem](/results/assignment_plot.svg "Solvers for Assignment Problem")
 
@@ -29,7 +34,7 @@ Solving time of the solvers are measured to compare the performance of different
 
 ![Solvers for Traveling Salesman Problem](/results/tsp_plot_small.svg "Solvers for Traveling Salesman Problem")
 
-## Authors
+## Author
 
 - [@trantrieuvy](https://www.github.com/trantrieuvy)
 
