@@ -12,7 +12,7 @@ This project deals with comparision between different solvers for the following 
 ## Preparation
 1. Create virtual Python environment
   ```shell
-  conda create -name LP python=3.11
+  conda create -n LP python=3.11
   ```
 2. Activate environment
   ```shell
